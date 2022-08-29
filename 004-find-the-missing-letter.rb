@@ -20,3 +20,12 @@ find_missing_letter(["O","Q","R","S"])      # correct answer:"P"
 find_missing_letter(["b","d"])              # correct answer:"c"
 find_missing_letter(["a","b","d"])          # correct answer:"c"
 find_missing_letter(["b","d","e"])          # correct answer:"c"
+
+# BETTER SOLUTION:
+# Create a new array of the range of values from first to last
+# Subtract the original array
+# Return the value in this new array
+
+def find_missing_letter_2(arr)
+  ((arr.first..arr.last).to_a - arr).first
+end
