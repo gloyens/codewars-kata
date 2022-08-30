@@ -7,3 +7,4 @@ This project contains my solutions to various exercises from [codewars.com](www.
 | 002 | [Split the Bill](https://www.codewars.com/kata/5641275f07335295f10000d0/ruby) | [Solution](https://github.com/gloyens/codewars-kata/blob/main/002-split-the-bill.rb) |
 | 003 | [Break Camelcase](https://www.codewars.com/kata/5208f99aee097e6552000148/ruby) | [Solution](https://github.com/gloyens/codewars-kata/blob/main/003-break-camelcase.rb) |
 | 004 | [Find the Missing Letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/ruby) | [Solution](https://github.com/gloyens/codewars-kata/blob/main/004-find-the-missing-letter.rb) |
+| 005 | [Sum of Digits](https://www.codewars.com/kata/541c8630095125aba6000c00/ruby) | [Solution](https://github.com/gloyens/codewars-kata/blob/main/005-sum-of-digits.rb)
