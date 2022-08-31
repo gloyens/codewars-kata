@@ -8,3 +8,4 @@ This project contains my solutions to various exercises from [codewars.com](www.
 | 003 | [Break Camelcase](https://www.codewars.com/kata/5208f99aee097e6552000148/ruby) | [Solution](https://github.com/gloyens/codewars-kata/blob/main/003-break-camelcase.rb) |
 | 004 | [Find the Missing Letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/ruby) | [Solution](https://github.com/gloyens/codewars-kata/blob/main/004-find-the-missing-letter.rb) |
 | 005 | [Sum of Digits](https://www.codewars.com/kata/541c8630095125aba6000c00/ruby) | [Solution](https://github.com/gloyens/codewars-kata/blob/main/005-sum-of-digits.rb)
+| 006 | [Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/ruby) | [Solution](https://github.com/gloyens/codewars-kata/blob/main/006-scramblies.rb) |
