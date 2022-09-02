@@ -9,3 +9,4 @@ This project contains my solutions to various exercises from [codewars.com](www.
 | 004 | [Find the Missing Letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/ruby) | [Solution](https://github.com/gloyens/codewars-kata/blob/main/004-find-the-missing-letter.rb) |
 | 005 | [Sum of Digits](https://www.codewars.com/kata/541c8630095125aba6000c00/ruby) | [Solution](https://github.com/gloyens/codewars-kata/blob/main/005-sum-of-digits.rb)
 | 006 | [Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/ruby) | [Solution](https://github.com/gloyens/codewars-kata/blob/main/006-scramblies.rb) |
+| 007 | [Permute a Palindrome](https://www.codewars.com/kata/58ae6ae22c3aaafc58000079/ruby) | [Solution](https://github.com/gloyens/codewars-kata/blob/main/007-permute-a-palindrome.rb)
