@@ -11,3 +11,4 @@ This project contains my solutions to various exercises from [codewars.com](www.
 | 006 | [Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/ruby) | [Solution](https://github.com/gloyens/codewars-kata/blob/main/006-scramblies.rb) |
 | 007 | [Permute a Palindrome](https://www.codewars.com/kata/58ae6ae22c3aaafc58000079/ruby) | [Solution](https://github.com/gloyens/codewars-kata/blob/main/007-permute-a-palindrome.rb)
 | 008 | [Moving Zeros](https://www.codewars.com/kata/52597aa56021e91c93000cb0/ruby) | [Solution](https://github.com/gloyens/codewars-kata/blob/main/008-moving-zeros.rb) |
+| 009 | [Who Likes It?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/ruby) | [Solution](https://github.com/gloyens/codewars-kata/blob/main/009-who-likes-it.rb) |
